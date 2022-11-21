@@ -2,8 +2,9 @@
     font-weight: bold;
     font-size: 400%;
     margin:auto;
+    background-color:coral;
 }
 .card-header {
-    background-color:coral;;
+    background-color:coral;
     color:darkslategrey;
 }

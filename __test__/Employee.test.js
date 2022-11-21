@@ -1,4 +1,4 @@
-// using Employee constructor 
+// using Employee constructor getRole()
 const Employee = require('../lib/Employee');
 
 // creates employee object 
